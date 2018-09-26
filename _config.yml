@@ -2,16 +2,3 @@
 title: "Stuff"
 date: 2018-09-26
 ---
-
-author: BlueUndertones
-email: HeatherGrewette@quickenloans.com
-description: > # this means to ignore newlines until "baseurl:"
-  Stuff.
-
-# social links
-twitter_username: BlueUndertones
-github_username:  BlueUndertones
-
-show_excerpts: true # set to false to remove excerpts on the homepage
-
-theme: minima
